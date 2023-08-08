@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="fixed w-full h-20 flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       {/* Brand logo */}
       <div>
-        <a className="text-4xl font-normal" href="#">
+        <a className="text-2xl sm:text-4xl font-normal" href="#">
           Ahmed Shaaban
         </a>
       </div>

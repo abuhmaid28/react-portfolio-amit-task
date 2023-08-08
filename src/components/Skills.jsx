@@ -8,7 +8,7 @@ const Skills = () => {
     // Skills section with a full-screen background color
     <div
       name="skills"
-      className="w-full h-screen bg-[#0a192f] text-gray-300 sm:pb-0 pt-10 "
+      className="w-full h-screen bg-[#0a192f] text-gray-300 sm:pb-0 pb-16 pt-40"
     >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">

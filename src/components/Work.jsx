@@ -8,7 +8,7 @@ const Work = () => {
     // Work section with a full-screen background color
     <div
       name="work"
-      className="w-full text-gray-300 bg-[#0a192f] pt-80 sm:pt-0 sm:my-[-150px] lg:my-0 "
+      className="w-full text-gray-300 bg-[#0a192f] pt-96 sm:pt-10  sm:my-[-150px] lg:my-0 "
     >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">

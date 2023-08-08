@@ -2,7 +2,7 @@ const About = () => {
   return (
     // About section with a full-screen background color
     <div name="about" className="w-full bg-[#0a192f] text-gray-300">
-      <div className="flex flex-col justify-center items-center w-full pb-80 sm:pb-0 sm:mb-[-100px] lg:mb-0 lg:pb-20">
+      <div className="flex flex-col justify-center items-center w-full pb-96 sm:pb-0 sm:mb-[-100px] lg:mb-0 lg:pb-20">
         {/* Grid layout for the "About" section */}
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
           {/* Left side of the grid */}
@@ -17,7 +17,7 @@ const About = () => {
         {/* Another grid layout for the main content */}
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           {/* Left side of the grid */}
-          <div className="sm:text-right text-4xl font-bold">
+          <div className="sm:text-left text-4xl font-bold">
             <p>
               Hi. I'm Ahmed Shaaban, nice to meet you. Please take a look
               around.

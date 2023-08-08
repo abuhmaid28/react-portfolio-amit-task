@@ -3,7 +3,7 @@ const Contact = () => {
     // Contact section with a full-screen background color
     <div
       name="contact"
-      className="w-full bg-[#0a192f] flex justify-center items-center p-4 pt-48 pb-8 lg:py-14"
+      className="w-full bg-[#0a192f] flex justify-center items-center md:pb-0 md:pt-40 p-4 pt-24 pb-8 lg:py-14"
     >
       {/* Contact form */}
       <form className="flex flex-col max-w-[600px] w-full ">
